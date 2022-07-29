@@ -1,6 +1,6 @@
 -  Hi, I’m Santhosh Mathialagan
--  I’m a fourth year undergraduate Data Science student at UC Berkeley
--  I’m currently working on some Machine Learning and NLP projects both in school and in industry settings
+-  I’m a recent Data Science graduate from UC Berkeley
+-  I have worked on Machine Learning and NLP projects in both school and industry settings
 -  Feel free to reach out to me at mathialagan.santhosh@berkeley.edu
 
 <!---
