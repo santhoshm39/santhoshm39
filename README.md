@@ -1,5 +1,5 @@
 -  Hi, I’m Santhosh Mathialagan
--  I’m a recent Data Science graduate from UC Berkeley
+-  I’m a Data Science graduate from UC Berkeley
 -  I have worked on Machine Learning and NLP projects in both school and industry settings
 -  Feel free to reach out to me at mathialagan.santhosh@berkeley.edu
 
